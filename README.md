@@ -1,1 +1,3 @@
-# C-calculator
+# Vidím Ostře calculator
+
+je to sračka pojebaná
